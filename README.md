@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Adalet 👋
 
-<!--
-**adaletserbest/adaletserbest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Manager based in Istanbul. I've spent about 9 years in tech marketplaces and quick commerce, the last 4 as a PM working on promotions and monetization at Getir.
 
-Here are some ideas to get you started:
+I'm not a developer by background, but I've been learning to build small products myself with AI-assisted tools. This profile is where I keep them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[Varım](https://github.com/adaletserbest/group-games)** *(in progress)* | A site that brings several party and team games together and suggests one based on the group. The name is Turkish for "I'm in". | TBD |
+| **[Wholesale Order Platform](https://github.com/adaletserbest/wholesale-order-platform)** | An ordering platform for wholesale produce markets, with a buyer storefront and a seller admin panel. | Next.js, Supabase, Vercel |
+| **Wedding Invitation Site** | An invitation site I made for friends, with RSVP and a photo carousel. | Next.js, Supabase, Vercel |
